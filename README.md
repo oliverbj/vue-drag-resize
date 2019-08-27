@@ -1,5 +1,5 @@
 ## Install the component
-`npm install oliverbj/vue-tabs-component --save`
+`npm install oliverbj/vue-drag-resize --save`
 
 <p align="center"><img src="http://oduvanstudio.com/vdr.gif" alt="logo"></p>
 <h1 align="center">Vue-drag-resize</h1>
