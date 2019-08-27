@@ -230,6 +230,9 @@ export default {
     },
 
     methods: {
+        setXAxis(element, position) {
+            document.getElementById(element).getBoundingClientRect().width * position / 100
+        },
         deselect() {
             if (this.preventActiveBehavior) {
                 return
